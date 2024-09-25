@@ -84,4 +84,4 @@ RESIDUAL PLOT :
 
 
 ### RESULT:
-Thus we have created the python code for the time series analysis and decomposition.
+Thus, we have created the Python code for time series analysis and decomposition of the AirPassengers dataset, effectively extracting the trend, seasonal, and residual components to understand long-term growth and cyclical patterns in air travel.
